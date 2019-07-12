@@ -1,0 +1,4 @@
+update_configs:
+- directory: "/"
+  package_manager: dotnet:nuget
+  update_schedule: daily
